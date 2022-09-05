@@ -28,7 +28,11 @@ IMG.displayed {
 
 div {
 	text-align: center
+
+}
+body {
   min-height: 10em;
     display: table-cell;
     vertical-align: middle;
+
 }
