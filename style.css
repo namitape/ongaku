@@ -16,6 +16,12 @@ h1 {
   font-size: 100px
 }
 
+p {
+
+    font-family: 'vcr-tape36.ttf';
+}
+
+
 div{
 
 	border: 0px solid var(--main-border-color);
