@@ -19,6 +19,14 @@ h1 {
 p {
 
     font-family: 'vcr-tape36.ttf';
+      font-size: 20px;
+      	text-align: center;
+}
+
+p2 {
+  font-family: 'vcr-tape36.ttf';
+    font-size: 10px
+
 }
 
 
