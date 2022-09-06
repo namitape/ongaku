@@ -31,6 +31,7 @@ IMG.displayed {
 section {
 	border: 10px solid gray;
 	height: 90vh;
-
-
+}
+.container{
+	border: 10px solid gray;
 }
