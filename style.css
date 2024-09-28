@@ -10,7 +10,7 @@
 }
 
 h1 {
-	border: 0px solid var(--main-border-color);
+	border: 2px solid var(--main-border-color);
 	text-align: center;
   font-family: 'vcr-tape36.ttf';
   font-size: 100px
